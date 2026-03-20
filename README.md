@@ -5,7 +5,7 @@
 
 ### 🚀 Sobre mim
 
-Sou um desenvolvedor full stack. Trabalho com backend e frontend usando ferramentas como **Python**, **PHP**, **Django**, **Flask** e **Laravel**. Gosto de explorar novas ideias, criar soluções eficientes e participar de projetos desafiadores.
+Sou um desenvolvedor full stack. Trabalho com backend e frontend usando ferramentas como **Python**, **Node.Js**, **JavaScript**, **Django** e **Flask**. Gosto de explorar novas ideias, criar soluções eficientes e participar de projetos desafiadores.
 
 Além do código, também gosto de **jogar nas horas vagas** 🎮 — porque todo bom dev precisa de um reset de vez em quando.
 
