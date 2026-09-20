@@ -1,16 +1,16 @@
-<h1 align="center">Olá, eu sou o Nicolas 👋</h1>
+<h1 align="center">Olá, eu sou o Nicolas! </h1>
 <h3 align="center">Desenvolvedor Full Stack</h3>
 
 ---
 
-### 🚀 Sobre mim
+###  Sobre mim
 Sou um desenvolvedor full stack. Trabalho com backend e frontend usando ferramentas como **Python**, **Node.Js**, **JavaScript**, **Django** e **Flask**. Gosto de explorar novas ideias, criar soluções eficientes e participar de projetos desafiadores.
 
-Além do código, também gosto de **jogar nas horas vagas** 🎮 — porque todo bom dev precisa de um reset de vez em quando.
+Além do código, também gosto de **jogar nas horas vagas**  — porque todo bom dev precisa de um reset de vez em quando.
 
 ---
 
-### 🛠️ Tecnologias que uso
+###  Tecnologias que uso
 <div style="display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask"/>
@@ -27,7 +27,7 @@ Além do código, também gosto de **jogar nas horas vagas** 🎮 — porque tod
 
 ---
 
-### 📫 Onde me encontrar
+###  Onde me encontrar
 <div>
   <a href="https://www.linkedin.com/in/nicolas-lim%C3%A3o-190690189/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -46,4 +46,4 @@ Além do código, também gosto de **jogar nas horas vagas** 🎮 — porque tod
 
 ---
 
-⭐️ Obrigado por visitar meu perfil! Explore meus repositórios e projetos!
+ Obrigado por visitar meu perfil! Explore meus repositórios e projetos!
