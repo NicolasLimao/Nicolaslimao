@@ -43,8 +43,4 @@ Sou desenvolvedor com foco em backend, criando APIs, integrações e automaçõe
 
 ---
 
-> **"A tecnologia move o mundo."**
-
 ---
-
- Obrigado por visitar meu perfil! Explore meus repositórios e projetos!
