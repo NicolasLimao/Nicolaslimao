@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Nicolas Limão! </h1>
+
 <h3 align="center">Desenvolvedor | Python • TypeScript • Node.js | APIs e Integrações | Background em Suporte Técnico</h3>
 
 ---
